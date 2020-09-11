@@ -5,7 +5,7 @@ what is MD file
 而且很多企业也在在鼓励使用这种编辑方式，特别作为一个前端从业者更要学会使用这种语言。
 
 How to user MD file.
-We should know the rule or grammar of MD file.
+We should know the rules of MD file.
 
 1.[基本符号和规则](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/1.%E5%9F%BA%E6%9C%AC%E7%AC%A6%E5%8F%B7.md)<BR>
 2.[标题](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/2.%E6%A0%87%E9%A2%98.md)<BR>
