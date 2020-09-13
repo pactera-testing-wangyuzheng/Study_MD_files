@@ -20,7 +20,7 @@ We should know the rules of MD file.
 11.[图片表示](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/11.%E5%9B%BE%E7%89%87%E8%A1%A8%E7%A4%BA.md)<BR>
 12.[链接表示](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/12.%E9%93%BE%E6%8E%A5%E8%A1%A8%E7%A4%BA.md)<BR>
 13.[加脚注](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/13.%E5%8A%A0%E8%84%9A%E6%B3%A8.md)<BR>
-14.[制图](https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/14.mail%E8%A1%A8%E7%A4%BA.md)<BR>
+14.[制图]()<BR>https://github.com/pactera-testing-wangyuzheng/Study_MD_files/blob/master/14.%E5%88%B6%E5%9B%BE.md
 15.[兼容HTML语言]()<BR>
 
 
