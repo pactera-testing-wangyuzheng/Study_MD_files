@@ -22,3 +22,9 @@ We should know the rules of MD file.
 13.[加脚注]()<BR>
 14.[mail表示]()<BR>
 15.[兼容HTML语言]()<BR>
+
+
+参照资料
+
+* [中文说明] https://www.appinn.com/markdown/
+* [官方说明] https://daringfireball.net/projects/markdown/syntax
